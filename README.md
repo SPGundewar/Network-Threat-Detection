@@ -1,4 +1,4 @@
-# Network_Threat_Detection
+# Network Threat Detection
 Title: Network Threat Detection as a Multi-Class Classifier Based on Feature Relevance <br/>
 Dataset link: https://www.kaggle.com/datasets/hassan06/nslkdd <br/>
 Preprocessed data and trained models link: https://drive.google.com/drive/folders/10ySCw8bQCo5JK29X7K90xLDwYv5wOaSu?usp=drive_link <br/>
